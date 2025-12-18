@@ -1,0 +1,8 @@
+{
+  "name": "Shadow AKD Mastery",
+  "description": "A high-end strategic advisor teaching advanced psychology, manipulation defense, and the White Room methodology for personal mastery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
